@@ -1,13 +1,13 @@
 # Mobile Development Club Community
 
-## Discussions
+## [Discussions](https://github.com/UWAppDev/community/discussions)
 
 > What people would call "a forum"
 
-## Projects
+## [Projects](https://github.com/UWAppDev/community/projects)
 
-> Learn more about active projects
+> Learn more about active (and past) projects
 
-## Wiki
+## [Wiki](https://github.com/UWAppDev/community/wiki)
 
 > The standard processes for getting involved

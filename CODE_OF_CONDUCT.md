@@ -15,7 +15,7 @@ A supplemental goal of this Code of Conduct is to increase open [source/culture/
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+If you see someone who is making extra efforts to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, please let us know as well.
 
 ## 3. Expected Behavior
 
@@ -80,13 +80,13 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+This code of conduct and its related procedures also apply to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
+## 10. Contact Info
 
 appdev@uw.edu
 
-## 11. License and attribution
+## 11. License and Attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 

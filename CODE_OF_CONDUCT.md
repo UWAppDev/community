@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of the ***Mobile Development Club** at University of Washington* is to be inclusive to the largest number of community members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of 
+A primary goal of the ***Mobile Development Club** at the University of Washington* is to be inclusive to the largest number of community members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of 
 age, body size, personal appearance, visible or invisible disability, race, ethnicity, nationality, sex characteristics, gender identity and expression, sexual identity and orientation, socio-economic status, ability, level of experience, education, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.

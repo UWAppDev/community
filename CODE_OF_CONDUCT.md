@@ -21,7 +21,7 @@ To provide equal access of information to all, the Mobile Development Club, incl
 
 To ensure that all are welcomed at the Mobile Development Club, the RSO, including its board and all members, shall maintain an open, free, and neutral stance on the freedom of expression. RSO meetings and gatherings are expected to follow the rough topics of discussion as outlined by the agenda and the material presented. However, no **forceful** attempts shall be made to restrict the will to express of any individual or entity present. Non-forceful reactions to any discharge of expression, including but not limited to frowning at the expresser and expressing general disapproval are not entirely constructive to a welcoming atmosphere, but nonetheless shall also **NOT** be forcefully restricted to uphold the freedom of expression of all.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+If you see someone who is making extra efforts to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, please let us know as well.
 
 ## 3. Expected Behavior
 

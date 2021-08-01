@@ -15,6 +15,14 @@ A supplemental goal of this Code of Conduct is to increase open [source/culture/
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
+To provide equal access of information to all, the Mobile Development Club shall refrain from actions and methods of broadcasts that unnecessarily exclude certain demographics or individuals from accessing information released and announced by the RSO
+(examples against this clause include but are not limited to making announcements solely to major and department-specific communication mailing-lists and other communication groups OR to explicitly state or
+conduct outreach in a fashion that suggests that the RSO is "exclusive to people in computing").
+
+To ensure that all are welcomed at the Mobile Development Club, the RSO shall maintain an open, free, and neutral stance on the freedom of expression. RSO meetings and gatherings are expected to follow the rough topics of discussion
+as outlined by the agenda and the material presented. However, no **forceful** attempts shall be made to restrict the will to express of any individual or entity present. Non-forceful reactions to any discharge of expression, including but not limited
+to frowning at the expresser and expressing general disapproval are not entirely constructive to a welcoming atmosphere, but nonetheless shall also **NOT** be forcefully restricted to uphold the freedom of expression of all.
+
 If you see someone who is making extra efforts to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, please let us know as well.
 
 ## 3. Expected Behavior
@@ -49,9 +57,12 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Sustained disruption of community events, including talks and presentations.
  * Publishing others' private information--such as a physical or email address, phone number, etc.--without their explicit permission.
 
-## 5. Weapons Policy
+## 5. Armed Aggression and Hostility with Weapons Policy
 
-No weapons will be allowed at Mobile Development Club events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+To maintain an environment with minimal armed aggression and hostility, no weapons or armaments will be allowed at Mobile Development Club events, community spaces, or in other spaces covered by the scope of this Code of Conduct.
+Weapons and armaments include but are not limited to projectile weapons and armaments (firearms, pneumatic arms, bows, and crossbows, etc.) explosives (including fireworks), and large knives such as those used for hunting or display,
+as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately,
+and will only be allowed to return unarmed without any weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 

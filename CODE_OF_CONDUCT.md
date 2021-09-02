@@ -48,10 +48,14 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
  * Publishing others' private information--such as a physical or email address, phone number, etc.--without their explicit permission.
+ * Non-forceful reactions to any discharge of expression (including but not limited to frowning at the expresser and expressing general disapproval are not entirely constructive to a welcoming atmosphere, but nonetheless shall also **NOT** be forcefully restricted to uphold the freedom of expression of all).
 
-## 5. Weapons Policy
+## 5. Armed Aggression and Hostility with Weapons Policy
 
-No weapons will be allowed at Mobile Development Club events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+To maintain an environment with minimal armed aggression and hostility, no weapons or armaments will be allowed at Mobile Development Club events, community spaces, or in other spaces covered by the scope of this Code of Conduct.
+Weapons and armaments include but are not limited to projectile weapons and armaments (firearms, pneumatic arms, bows, and crossbows, etc.) explosives (including fireworks), and large knives such as those used for hunting or display,
+as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately,
+and will only be allowed to return unarmed without any weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 

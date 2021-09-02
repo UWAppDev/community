@@ -1,10 +1,8 @@
 # Code of Conduct
 
-> This is the ***TENTATIVE*** Code of Conduct of the Mobile Development Club at University of Washington.
-
 ## 1. Purpose
 
-A primary goal of Mobile Development Club is to be inclusive to the largest number of community members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of 
+A primary goal of the ***Mobile Development Club** at the University of Washington* is to be inclusive to the largest number of community members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of 
 age, body size, personal appearance, visible or invisible disability, race, ethnicity, nationality, sex characteristics, gender identity and expression, sexual identity and orientation, socio-economic status, ability, level of experience, education, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
@@ -17,7 +15,7 @@ A supplemental goal of this Code of Conduct is to increase open [source/culture/
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+If you see someone who is making extra efforts to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, please let us know as well.
 
 ## 3. Expected Behavior
 
@@ -50,10 +48,14 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
  * Publishing others' private information--such as a physical or email address, phone number, etc.--without their explicit permission.
+ * Non-forceful reactions to any discharge of expression (including but not limited to frowning at the expresser and expressing general disapproval are not entirely constructive to a welcoming atmosphere, but nonetheless shall also **NOT** be forcefully restricted to uphold the freedom of expression of all).
 
-## 5. Weapons Policy
+## 5. Armed Aggression and Hostility with Weapons Policy
 
-No weapons will be allowed at Mobile Development Club events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+To maintain an environment with minimal armed aggression and hostility, no weapons or armaments will be allowed at Mobile Development Club events, community spaces, or in other spaces covered by the scope of this Code of Conduct.
+Weapons and armaments include but are not limited to projectile weapons and armaments (firearms, pneumatic arms, bows, and crossbows, etc.) explosives (including fireworks), and large knives such as those used for hunting or display,
+as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately,
+and will only be allowed to return unarmed without any weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 
@@ -82,13 +84,13 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+This code of conduct and its related procedures also apply to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
+## 10. Contact Info
 
 appdev@uw.edu
 
-## 11. License and attribution
+## 11. License and Attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 

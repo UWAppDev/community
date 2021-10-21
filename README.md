@@ -8,7 +8,7 @@
 
 > What people would call "a forum"
 
-## [Projects](https://github.com/orgs/UWAppDev/projects)
+## [Projects](https://github.com/UWAppDev/community/discussions/categories/projects)
 
 > Learn more about active (and past) projects
 
